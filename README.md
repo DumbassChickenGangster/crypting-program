@@ -1,2 +1,3 @@
 # crypting-program
-An easy to use Encrypt and Decrypt 
+An easy to use Encrypt and Decrypt program
+
